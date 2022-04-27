@@ -1,2 +1,2 @@
-BOT_TOKEN = "5034999677:AAGiwiFSur3zDxpmddKxLutJbxcDsis-4qM"
-APP_URL = "https://bot60878.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5034999677:AAFKKUsI4gB8XJPiX49MYJrkv3BC6gjWDgc"
+APP_URL = "https://bot-check-users-telegram-0.herokuapp.com/" + BOT_TOKEN
