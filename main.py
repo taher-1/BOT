@@ -19,9 +19,9 @@ def boten(message):
     
     mas = types.InlineKeyboardMarkup(row_width=2)
     
-    A = types.InlineKeyboardButton(text ="USER (BFFFL)", callback_data="F1")
+    A = types.InlineKeyboardButton(text ="USER (z_y_z)", callback_data="F1")
     
-    E = types.InlineKeyboardButton(text ="USER (BFFF2)", callback_data="F2")
+    E = types.InlineKeyboardButton(text ="USER (F_1_m)", callback_data="F2")
     
     M = types.InlineKeyboardButton('المطور', url='https://t.me/Dragon_2022_D')
     
